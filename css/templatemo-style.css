@@ -169,7 +169,7 @@ h5 {
 
 /* start home */
 #home {
-  background: url("../images/home-bg.jpg");
+  background: url("../images/berend-leupen-umt2Qzf-dMs-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 120px;
@@ -252,7 +252,7 @@ h5 {
   height: 4px;
 }
 #about .progress .progress-bar-danger {
-  background: rgb(4, 131, 4););
+  background: rgb(4, 131, 4);
 }
 #about .text-top {
   padding-top: 50px;
